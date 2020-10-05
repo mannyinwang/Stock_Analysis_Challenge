@@ -15,9 +15,11 @@ The analysis is also to refactor the code and make it run faster when a lot of s
 From refactoring the code, the runtime of the program reduced significantly. The runtime is as follows:
 
 * It took approximately 0.38 second for the runtime of the 2017 worksheet and the image below shows the runtime.
+
 ![2017 runtime image](./Resources/VBA_Challenge_2017.png)
 
 * It took approximately 0.36 second for the runtime of the 2018 worksheet and the image below shows the runtime.
+
 ![2018 runtime image](./Resources/VBA_Challenge_2018.png)
 
 
