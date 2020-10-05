@@ -16,19 +16,19 @@ The analysis is also to refactor the code and make it run faster when a lot of s
 
 From the image below, all stocks except **TERP** had a returns percentage above 0% in the year 2017. **DQ** and **SEDG** were the best performing stocks that year.
 
-![2017 returns image](./Resources/VBA_Challenge_2017_Returns Chart.png)
+![2017 returns image](./Resources/VBA_Challenge_2017_Returns_Chart.png)
 
 
 
 In 2018, **ENPH** and **RUN** were the only profitable stocks for that year according to the image below.
 
-![2018 returns  image](./Resources/VBA_Challenge_2018_Returns Chart.png)
+![2018 returns  image](./Resources/VBA_Challenge_2018_Returns_Chart.png)
 
 
 
 Based on the information form the charts, I will recommend that investments be made in **ENPH** and **RUN**. **ENPH** grew by 129% while **RUN** by 5.5% at the end of 2017 and at the end of 2018 **ENPH** grew by 81.9% while **RUN** by 84.0%
 
-Looking at the charts, you will also observe that the total daily volumes traded for both stocks increased exponentially. **ENPH** volumes increased by 173% while that of **RUN** increased by 87%, showing that there is alot of interest in both stocks.
+Looking at the charts, you will also observe that the total daily volumes traded for both stocks increased exponentially. **ENPH** volumes increased by 173% while that of **RUN** increased by 87%, showing that there is a lot of interest in both stocks.
 
 
 ### Runtime Analysis
