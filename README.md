@@ -28,14 +28,13 @@ In 2018, **ENPH** and **RUN** were the only profitable stocks for that year acco
 
 Based on the information form the charts, I will recommend that investments be made in **ENPH** and **RUN**. **ENPH** grew by 129% while **RUN** by 5.5% at the end of 2017 and at the end of 2018 **ENPH** grew by 81.9% while **RUN** by 84.0%
 
-Looking at the charts, you will also observe that the total daily volumes traded for both stocks increased exponentially. **ENPH** volumes increased by 173% while that of **RUN** increased by 87%, showing that there is a lot of interest in both stocks.
+Looking at the charts, you will also observe that the total daily volumes traded for both stocks increased exponentially. **ENPH** volumes increased by 173% while that of **RUN** increased by 87%, showing that there is alot of interest in both stocks.
 
 
 ### Runtime Analysis
 
 From refactoring the code, the runtime of the program reduced significantly. The runtime is as follows:
 
-<<<<<<< HEAD
 * The runtime of the refactored code took approximately 0.23 second for 2017 worksheet while it was 0.84 second for the normal code, the images below shows the different runtime.
 
 
@@ -49,14 +48,6 @@ From refactoring the code, the runtime of the program reduced significantly. The
 * The runtime of the refactored code took approximately 0.22 second for 2018 worksheet while it was 0.83 second for the normal code, the images below shows the different runtime.
 
 
-=======
-* It took approximately 0.38 second for the runtime of the 2017 worksheet and the image below shows the runtime.
-
-![2017 runtime image](./Resources/VBA_Challenge_2017.png)
-
-* It took approximately 0.36 second for the runtime of the 2018 worksheet and the image below shows the runtime.
-
->>>>>>> e8e73219bd841c8b708dee60aad3a61c65b43160
 ![2018 runtime image](./Resources/VBA_Challenge_2018.png)
 					Refactored Code Runtime
 
